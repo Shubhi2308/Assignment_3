@@ -55,7 +55,7 @@ main {
     margin:0;
     float:left;
     width: 51.5%;         
-    height: 78vh;  
+    height: 85vh;  
     border-radius: 10px;     
    
 }
@@ -69,7 +69,7 @@ main {
     float:right;
     margin-bottom: 10px;
     width: 48%;          
-    height: 78vh;  
+    height: 85vh;  
     border-radius: 10px; 
 }
 
@@ -85,3 +85,19 @@ main {
     margin: 6px 0;
     color: black
 }
+
+p {
+    margin: 10px 0;
+    line-height: 1.6;
+    text-align: justify;
+  }
+
+h3 {
+    margin-top: 15px;
+  }
+  h2 {
+    margin-top: 15px;
+  }
+
+  
+  
